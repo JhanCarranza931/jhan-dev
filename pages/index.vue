@@ -1,5 +1,5 @@
 <template>
-    <main class=" max-w-7xl m-auto p-16 flex gap-24">
+    <main class=" max-w-7xl m-auto p-16 flex gap-24 max-md:flex-wrap">
         <PerfilComponent/>
         <section class="flex flex-col gap-16">
             <ExperienciaComponent/>
