@@ -13,7 +13,6 @@
                 <h5 class="text-white pb-2">Summary:</h5>
                 <ol class="list-disc pl-8 flex flex-col gap-2">
                     <li class="gray text-sm " >I collaborate as part of a team of web developers in the creation and maintenance of an E-Commerce.</li>
-                    <li class="gray text-sm " >I collaborate as part of a team of web developers in the creation and maintenance of an E-Commerce.</li>
                 </ol>
                 </div>
                 <div>
