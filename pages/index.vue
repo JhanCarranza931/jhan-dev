@@ -10,7 +10,7 @@
         
     </main>
     <footer class=" h-12 max-w-7xl border-gray-700 m-auto border-t flex items-center justify-center">
-        <p class=" text-white text-center text-xs">Made by Jhan ❤️</p>
+        <p class=" text-white text-center text-xs">Made by Jack TP </p>
     </footer>
     
 </template>
